@@ -12,5 +12,7 @@ As the saying goes, 'If you are going to do something more than once, write a sc
 
 ## Requirements
 
+	This script has been tested using Python 3.7.0 on MacOS
+
 	$ pip install -r requirements.txt
 
