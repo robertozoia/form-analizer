@@ -1,6 +1,17 @@
 """
-A tool for analizing HTML forms
+A tool for analizing HTML forms.
+
+Author: Roberto Zoia roberto@zoia.org
+License:  	GNU GENERAL PUBLIC LICENSE
+            Version 3, 29 June 2007
+            (Check LICENSE file)
+
+Version:    0.1
+Date:		2018-10-30
+
+As the saying goes, 'If you are going to do it more than once, write a script to do it for you.'
 """
+
 import sys
 
 from termcolor import colored
